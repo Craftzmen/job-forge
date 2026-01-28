@@ -1,0 +1,20 @@
+# AI/ML Dependencies for JobForge
+
+# NLP and Embeddings
+sentence-transformers>=2.2.0
+spacy>=3.7.0
+numpy>=1.24.0
+
+# Hugging Face for AI cover letter generation
+huggingface_hub>=0.20.0
+
+# OpenAI (optional - for advanced cover letter generation)
+openai>=1.0.0
+requests>=2.31.0
+
+# Additional ML utilities
+scikit-learn>=1.3.0
+
+# Note: Download spaCy English model after installing:
+# python -m spacy download en_core_web_sm
+python-dotenv==1.2.1

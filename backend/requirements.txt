@@ -1,0 +1,17 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+psycopg2-binary
+python-dotenv
+openai
+langchain
+langchain-openai
+langchain-community
+tiktoken
+faiss-cpu
+numpy
+pandas
+gunicorn
+dj-database-url
+whitenoise
